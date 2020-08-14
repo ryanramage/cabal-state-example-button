@@ -1,12 +1,12 @@
 {
   "name": "cabal-state-example-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A super simple state machine for cabal-state",
   "main": "index.json",
   "scripts": {
     "build": "cabal-state index.js"
   },
-  "dependencies": {
+  "devDependencies": {
     "cabal-state": "^1.0.0"
   },
   "repository": {
