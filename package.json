@@ -1,0 +1,28 @@
+{
+  "name": "cabal-state-example-button",
+  "version": "1.0.0",
+  "description": "A super simple state machine for cabal-state",
+  "main": "index.json",
+  "scripts": {
+    "build": "cabal-state index.js"
+  },
+  "dependencies": {
+    "cabal-state": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanramage/cabal-state-example-button.git"
+  },
+  "keywords": [
+    "cabal",
+    "p2p",
+    "xstate",
+    "smart-contract"
+  ],
+  "author": "Ryan Ramage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanramage/cabal-state-example-button/issues"
+  },
+  "homepage": "https://github.com/ryanramage/cabal-state-example-button#readme"
+}
